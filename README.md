@@ -19,7 +19,7 @@
 * **Retail price Prediction:** Analyzed product data to predict retail price. (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Linear regression, Zenml**)
 * **Titanic survival prediction:** Analyzed Passengers data to predict their survival. (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Logistic regression,)
 * **Student score prediction:** Analyzed students data to predict theirlMath's score. (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Linear regression**)
-* **Online food order prediction:** Analyzed Customers data to predict Order(they will place order or not). (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Linear regression**)
+* **Online food order prediction:** Analyzed Customers data to predict Order(they will place order or not). (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Logistic regression**)
 
 
 ## Contact
