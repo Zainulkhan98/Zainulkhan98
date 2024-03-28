@@ -10,7 +10,6 @@
 * SQL (Intermediate)
 * Machine Learning: Linear Regression, Decision Trees, Logistic regression
 * Data Cleaning & Preprocessing
-* Solving errors by using - Google Gemini, ChatGpt(without External help)
   
 ## Projects
 
