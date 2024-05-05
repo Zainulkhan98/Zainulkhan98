@@ -1,8 +1,7 @@
 - 👋 Hi i am Zainul Khan | Data Scientist (Aspiring)
 - 
-- Passionate data enthusiast building expertise in Machine Learning (ML) and Artificial Intelligence (AI) to solve real-world problems. Currently learning to develop and deploy complex 
-  ML projects.
-
+- Passionate data enthusiast building expertise in Machine Learning (ML) and Artificial Intelligence (AI) to solve real-world problems. Currently learning New technologies in the field 
+  of AI and Machine learning.
 ## Skills
 
 * Python (libraries: Pandas, NumPy,Matplotlib)
