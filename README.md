@@ -5,21 +5,23 @@
 
 ## Skills
 
-* Python (libraries: Pandas, NumPy,Matplotlib(Intermediate))
-* Scikit-learn (Intermediate), ZenML (Beginner)
+* Python (libraries: Pandas, NumPy,Matplotlib)
+* Scikit-learn, ZenML
 * SQL (Intermediate)
-* Machine Learning: Linear Regression, Decision Trees, Logistic regression
-* Data Cleaning & Preprocessing
+* Machine Learning: Regression algorithms, Classification Algorithms, Clustering Algorithms.
+* Data Cleaning, Preprocessing and Feature Engineering
   
 ## Projects
 
+* ** Global Sustainable Development: Uilized Data on Global Sustainable Development to predict the amount of Carbon emision by a country. 
+* ** AirBnb Room Price Prediction: Used Airbnb Dataset for training Xgboost regressor Algorithm to predict the room price.
 * **Electric vehicle range Prediction:** Using machine learning to predict electric vehicle. (**Scikit-learn, Pandas, Matplotlib, Numpy, Decision Tree regressor, Pipeline**)
 * **Dibeties prediction:** Analyzed Patients health data to predict dibeties. (**Scikit-learn, Pandas, Matplotlib, Numpy, Logistic regression**)
 * **Retail price Prediction:** Analyzed product data to predict retail price. (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Linear regression, Zenml**)
 * **Titanic survival prediction:** Analyzed Passengers data to predict their survival. (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Logistic regression,)
 * **Student score prediction:** Analyzed students data to predict theirlMath's score. (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Linear regression**)
 * **Online food order prediction:** Analyzed Customers data to predict Order(they will place order or not). (**Scikit-learn, Pandas, Matplotlib, Seaborn, Numpy, Logistic regression**)
-
+-- One more Project in progress
 
 ## Contact
 
