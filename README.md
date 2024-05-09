@@ -6,13 +6,13 @@
 
 * Python (libraries: Pandas, NumPy,Matplotlib)
 * Scikit-learn, ZenML
-* SQL (Intermediate)
+* SQL (Intermediate), Streamlit
 * Machine Learning: Regression algorithms, Classification Algorithms, Clustering Algorithms.
 * Data Cleaning, Preprocessing and Feature Engineering
   
 ## Projects
 
-* ** Global Sustainable Development: Uilized Data on Global Sustainable Development to predict the amount of Carbon emision by a country. 
+* ** Global Sustainable Development: Uilized Data on Global Sustainable Development to predict the amount of Carbon emision by a country.
 * ** AirBnb Room Price Prediction: Used Airbnb Dataset for training Xgboost regressor Algorithm to predict the room price.
 * **Electric vehicle range Prediction:** Using machine learning to predict electric vehicle. (**Scikit-learn, Pandas, Matplotlib, Numpy, Decision Tree regressor, Pipeline**)
 * **Dibeties prediction:** Analyzed Patients health data to predict dibeties. (**Scikit-learn, Pandas, Matplotlib, Numpy, Logistic regression**)
